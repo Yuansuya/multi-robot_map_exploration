@@ -1,0 +1,25 @@
+[0.430s] Invoking command in '/home/Yuuuu/auto_robot_ws/frontier_detector_pkg/build/frontier_detector_pkg': PYTHONPATH=/home/Yuuuu/auto_robot_ws/frontier_detector_pkg/build/frontier_detector_pkg/prefix_override:/home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/build/frontier_detector_pkg/build --no-deps install_data
+[0.595s] running develop
+[0.688s] running egg_info
+[0.688s] creating frontier_detector_pkg.egg-info
+[0.688s] writing frontier_detector_pkg.egg-info/PKG-INFO
+[0.689s] writing dependency_links to frontier_detector_pkg.egg-info/dependency_links.txt
+[0.689s] writing entry points to frontier_detector_pkg.egg-info/entry_points.txt
+[0.689s] writing requirements to frontier_detector_pkg.egg-info/requires.txt
+[0.689s] writing top-level names to frontier_detector_pkg.egg-info/top_level.txt
+[0.689s] writing manifest file 'frontier_detector_pkg.egg-info/SOURCES.txt'
+[0.710s] reading manifest file 'frontier_detector_pkg.egg-info/SOURCES.txt'
+[0.710s] writing manifest file 'frontier_detector_pkg.egg-info/SOURCES.txt'
+[0.734s] running build_ext
+[0.734s] Creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/lib/python3.8/site-packages/site.py
+[0.735s] Creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/lib/python3.8/site-packages/frontier-detector-pkg.egg-link (link to .)
+[0.736s] Installing fd script to /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/lib/frontier_detector_pkg
+[0.736s] 
+[0.736s] Installed /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/build/frontier_detector_pkg
+[0.736s] running install_data
+[0.736s] creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/ament_index
+[0.736s] creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/ament_index/resource_index
+[0.736s] creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/ament_index/resource_index/packages
+[0.736s] copying resource/frontier_detector_pkg -> /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/ament_index/resource_index/packages
+[0.736s] copying package.xml -> /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/frontier_detector_pkg
+[0.752s] Invoked command in '/home/Yuuuu/auto_robot_ws/frontier_detector_pkg/build/frontier_detector_pkg' returned '0': PYTHONPATH=/home/Yuuuu/auto_robot_ws/frontier_detector_pkg/build/frontier_detector_pkg/prefix_override:/home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/build/frontier_detector_pkg/build --no-deps install_data

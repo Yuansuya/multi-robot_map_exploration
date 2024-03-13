@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+frontier_detector_pkg/__init__.py
+frontier_detector_pkg/detector.py
+frontier_detector_pkg.egg-info/PKG-INFO
+frontier_detector_pkg.egg-info/SOURCES.txt
+frontier_detector_pkg.egg-info/dependency_links.txt
+frontier_detector_pkg.egg-info/entry_points.txt
+frontier_detector_pkg.egg-info/requires.txt
+frontier_detector_pkg.egg-info/top_level.txt
+frontier_detector_pkg.egg-info/zip-safe
+resource/frontier_detector_pkg

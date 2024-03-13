@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating frontier_detector_pkg.egg-info
+writing frontier_detector_pkg.egg-info/PKG-INFO
+writing dependency_links to frontier_detector_pkg.egg-info/dependency_links.txt
+writing entry points to frontier_detector_pkg.egg-info/entry_points.txt
+writing requirements to frontier_detector_pkg.egg-info/requires.txt
+writing top-level names to frontier_detector_pkg.egg-info/top_level.txt
+writing manifest file 'frontier_detector_pkg.egg-info/SOURCES.txt'
+reading manifest file 'frontier_detector_pkg.egg-info/SOURCES.txt'
+writing manifest file 'frontier_detector_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/lib/python3.8/site-packages/site.py
+Creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/lib/python3.8/site-packages/frontier-detector-pkg.egg-link (link to .)
+Installing fd script to /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/lib/frontier_detector_pkg
+
+Installed /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/build/frontier_detector_pkg
+running install_data
+creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/ament_index
+creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/ament_index/resource_index
+creating /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/ament_index/resource_index/packages
+copying resource/frontier_detector_pkg -> /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/Yuuuu/auto_robot_ws/frontier_detector_pkg/install/frontier_detector_pkg/share/frontier_detector_pkg

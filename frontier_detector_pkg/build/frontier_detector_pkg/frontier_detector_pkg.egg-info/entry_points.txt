@@ -1,0 +1,3 @@
+[console_scripts]
+fd = frontier_detector_pkg.detector:main
+
