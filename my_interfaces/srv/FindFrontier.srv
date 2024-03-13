@@ -1,0 +1,5 @@
+geometry_msgs/PoseStamped cur_pos
+nav_msgs/OccupancyGrid map_data
+int8 pre_point_id
+---
+geometry_msgs/Point[] frontiers
