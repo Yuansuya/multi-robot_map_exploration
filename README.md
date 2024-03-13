@@ -1,4 +1,4 @@
-# multi-robot_map_exploration-
+# multi-robot_map_exploration
 ## Introdution
 **該source code為論文Blockchain-Based Multi-Robot Collaborative Map Exploration @NCU by Kevin Zhang (2023)**
 
