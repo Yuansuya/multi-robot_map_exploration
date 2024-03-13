@@ -4,12 +4,17 @@
 
 該專案採用了區塊鏈作為多機器人資料交換的平台，並採用拓樸地圖(Topological Map)作為多機器人間共享的地圖，達到低傳輸頻寬，並設計了一輕量化任務分配演算法Tiny MinPos，讓多機器人在分配任務時可以有效的避免重複探索。
 
-使用ros2作為機器人控制系統，並且每個機器人能夠獨立的自動進行區域探索，其中需要的方法包含尋找任務點，導航還有跟區塊鏈做交互([blockchain source code](https://github.com/Yuansuya/fabric_ros2_multi-robot_map_exploration))。
+使用ros2作為機器人控制系統，並且每個機器人能夠獨立的自動進行區域探索，其中需要的方法包含尋找任務點，導航還有跟區塊鏈做交互。
+
+[blockchain source code](https://github.com/Yuansuya/fabric_ros2_multi-robot_map_exploration)
 
 Version:
 * Ubuntu: 20.04
 * ros2: foxy
 * hyperledger fabric: 2.5
+
+## Goal
+設計多機器人協同方法，在探索未知區域時，能達到達成高效探索、高擴展性與高可靠性等成果。
 
 ## Demo
 採用gazebo作為模擬軟體。
@@ -46,3 +51,7 @@ Version:
 用於擴充ros2的可傳送service的資料結構，擴充的有
 - my_interfaces/srv/FindFrontier.srv
 - my_interfaces/srv/MoveGoal.srv
+
+## Contact
+Email: kevincolin933@gmail.com
+
