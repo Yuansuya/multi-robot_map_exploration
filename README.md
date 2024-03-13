@@ -23,7 +23,7 @@ Version:
 ### navi
 #### **navi/navi/action_navi_node.py**
 導航的主程式(兩點間移動)，並且移動的過程會產生新的走過的路徑點，可以設定time_threshold參數來控制在走動的過程中每隔多久生一個路徑點
-#### **navi/naiv/testGoalPose.py**
+#### **navi/navi/testGoalPose.py**
 整個系統的主程式(啟動點)，要跟以下不同的package交互
 * 找尋任務點(新的未探索點)
 * navigation
