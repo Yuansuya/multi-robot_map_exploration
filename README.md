@@ -2,14 +2,20 @@
 ## Introdution
 **該source code為論文Blockchain-Based Multi-Robot Collaborative Map Exploration @NCU by Kevin Zhang (2023)**
 
-使用ros2作為機器人控制系統，需要完成自主探索的方法，其中包含尋找任務點，導航還有跟區塊鏈做交互([blockchain source code](https://github.com/Yuansuya/fabric_ros2_multi-robot_map_exploration))。
+該專案採用了區塊鏈作為多機器人資料交換的平台，並採用拓樸地圖(Topological Map)作為多機器人間共享的地圖，達到低傳輸頻寬，並設計了一輕量化任務分配演算法Tiny MinPos，讓多機器人在分配任務時可以有效的避免重複探索。
 
-採用gazebo作為模擬軟體。[Demo影片](https://www.youtube.com/watch?v=X8ZK3-JHJ0A&t=13s)
+使用ros2作為機器人控制系統，並且每個機器人能夠獨立的自動進行區域探索，其中需要的方法包含尋找任務點，導航還有跟區塊鏈做交互([blockchain source code](https://github.com/Yuansuya/fabric_ros2_multi-robot_map_exploration))。
 
 Version:
 * Ubuntu: 20.04
 * ros2: foxy
 * hyperledger fabric: 2.5
+
+## Demo
+採用gazebo作為模擬軟體。
+
+[![demo](https://img.youtube.com/vi/X8ZK3-JHJ0A/0.jpg)](https://www.youtube.com/watch?v=X8ZK3-JHJ0A)
+
 
 
 ## packages
